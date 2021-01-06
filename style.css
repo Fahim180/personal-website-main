@@ -42,7 +42,7 @@ p {
 .pre-header {
   font-size: 40px;
   font-family: "Roboto", sans-serif;
-  margin-top: 3%;
+  margin-top: 0%;
   margin-right: 5%;
   text-align: right;
 }
@@ -52,6 +52,7 @@ p {
   padding-top: 100px;
   padding-bottom: 100px;
   margin-bottom: 7%;
+  margin-left: 0%;
 }
 .textalign {
   text-align: center;
