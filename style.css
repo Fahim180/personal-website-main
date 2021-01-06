@@ -47,10 +47,11 @@ p {
   text-align: right;
 }
 
-section {
+.section1 {
   height: 1400px;
   padding-top: 100px;
   padding-bottom: 100px;
+  margin-bottom: 7%;
 }
 .textalign {
   text-align: center;
@@ -98,4 +99,48 @@ h4 {
 .new-width {
   width: 50%;
   float: left;
+}
+#third-section {
+  background-image: url("shapes/bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 70%;
+  height: 350px;
+  margin: 5% 10%;
+}
+#work_inquiry {
+  display: inline-block;
+  font-size: 30px;
+  font-weight: 500;
+  color: #ffffff;
+  position: absolute;
+  left: 500px;
+  top: 3600px;
+}
+#letschat {
+  display: inline-block;
+  position: absolute;
+  left: 1200px;
+  top: 3600px;
+}
+.button1 {
+  font-size: 20px;
+}
+.icons {
+  width: 30px;
+  height: auto;
+}
+#stay {
+  font-size: 120%;
+  font-family: "Courier New", Courier, monospace;
+  margin: 0px;
+  text-align: center;
+}
+#hello {
+  font-size: 150%;
+  margin: 0px;
+  text-align: center;
+}
+.image-align {
+  margin: 10px 46%;
 }
